@@ -1,0 +1,6 @@
+build/
+sdkconfig
+.cache/
+managed_components/
+
+main/wifi_config.h

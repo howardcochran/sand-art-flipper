@@ -1,0 +1,8 @@
+
+// Change these to your actual WIFI credentials
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
+
+// IP address to stream log messages to over UDP. Set to empty string to disable this feature.
+#define ESP_LOG_SERVER ""
+#define ESP_LOG_UDP_PORT 12345
